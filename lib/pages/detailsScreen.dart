@@ -112,49 +112,13 @@ class _DetailsState extends State<Details> {
                           this.rating = rating;
                         })),
 
-/*
-                Row(
-                  children: [
-                    Icon(
-                      Icons.star,
-                      size: 26,
-                      color: Color.fromARGB(255, 255, 191, 0),
-                    ),
-                    Icon(
-                      Icons.star,
-                      size: 26,
-                      color: Color.fromARGB(255, 255, 191, 0),
-                    ),
-                    Icon(
-                      Icons.star,
-                      size: 26,
-                      color: Color.fromARGB(255, 255, 191, 0),
-                    ),
-                    Icon(
-                      Icons.star,
-                      size: 26,
-                      color: Color.fromARGB(255, 255, 191, 0),
-                    ),
-                    Icon(
-                      Icons.star,
-                      size: 26,
-                      color: Color.fromARGB(255, 255, 191, 0),
-                    ),
-                  ],
-                ),
-*/
+
                 SizedBox(
                   width: 0,
                 ),
                 Row(
                   children: [
-/*
-                    Icon(
-                      Icons.edit_location,
-                      size: 26,
-                      color: Color.fromARGB(168, 3, 65, 27),
-                    ),
-*/
+
                     SizedBox(
                       width: 3,
                     ),
