@@ -30,30 +30,9 @@ class HomePage extends StatelessWidget {
                   image: AssetImage('assets/images/download.jpg'),
                   fit: BoxFit.cover,
                 )),
-/*
-            currentAccountPicture: CircleAvatar(
-              radius: 55,
-              backgroundImage:
-              AssetImage('assets/images/images.jpg'),
-            ),
-*/
+
             accountName: null, accountEmail: null,
-         /*   accountName: Text(
-              'Ahmed Fouda',
-              style: TextStyle(
-                fontSize: 32,
-                fontWeight: FontWeight.w900,
-                color: Colors.indigo,
-              ),
-            ),
-            accountEmail: Text(
-              'ahmedfouda@gmai.com',
-              style: TextStyle(
-                fontSize: 24,
-                fontWeight: FontWeight.bold,
-                color: Colors.black,
-              ),
-            ),*/
+        
           ),
           ListTile(
             title: Text('Home'),
